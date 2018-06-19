@@ -1,0 +1,18 @@
+ProjectOfProjectness Controls:
+
+F = Fireball
+R = Root
+Shift + F = AOE Explosion (Fire)
+Shift + E = AOE Heal
+Shift + R = Ring Of Fire
+Left Click = Fire Cone Blast
+Shift = Sprint
+
+
+
+Controls For Development:
+
+1 = Switch to Hammer Guy
+2 = Switch to Mage
+NUMPAD 1-5 = Switch to that team number
+F2 = Testing Key
