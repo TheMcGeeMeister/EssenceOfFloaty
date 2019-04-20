@@ -76,3 +76,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/Textures/Landscape/GrassNormal.uasset
+Content/StarterContent/*
+Content/Sound/*
